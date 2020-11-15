@@ -1,0 +1,31 @@
+body{background-color: #F5F9C7;
+  color: #F5F9C7;
+  font-family: 'Raleway';
+  margin: 0;}
+
+h1{text-align: left;
+  font-size:2rem;
+  color: #FF3333;}
+
+h2{text-align: left;
+  font-size:2rem;
+  color: #FF3333;}
+
+h3{text-align: left;
+  font-size:2rem;
+  color: #FF3333;}
+
+h4{text-align: left;
+  font-size:2rem;
+  color: #FF3333;}
+
+p{color: #1A1A1E  ;}
+
+a{color: #A74A37;}
+
+.centerpicture {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
